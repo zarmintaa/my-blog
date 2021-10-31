@@ -14,8 +14,8 @@ const Hero = () => {
       </div>
       <h1>Hi, Iam Mamang</h1>
       <p>
-        I Blog about web development - especially frontend frameworks line React
-        or Vue.js
+        I Blog about web development - especially frontend frameworks like
+        React.
       </p>
     </section>
   );
