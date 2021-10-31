@@ -2,7 +2,7 @@ import { Fragment } from "react";
 import Hero from "../components/home-page/hero";
 import FeaturedPosts from "../components/home-page/featured-post";
 
-const DUMMY_DATA = [
+export const DUMMY_DATA = [
   {
     slug: "getting-started-with-nextjs",
     title: "Getting started with NextJs",
