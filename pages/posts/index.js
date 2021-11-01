@@ -15,4 +15,5 @@ export const getStaticProps = () => {
     },
   };
 };
+
 export default AllPostPage;
